@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Apka2</string>
+    <string name="opis_opcji">Skasuj dane!  </string>
+    <string name="producent">Producent</string>
+    <string name="model">Model</string>
+    <string name="wersja">Wersja</string>
+    <string name="strona">Strona</string>
+    <string name="web_site">Web site</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+</resources>
